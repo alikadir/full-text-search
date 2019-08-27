@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\bin\Debug\AKBSearch.exe
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\bin\Debug\AKBSearch.pdb
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\obj\x86\Debug\AKBSearch.Properties.Resources.resources
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\obj\x86\Debug\AKBSearch.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\obj\x86\Debug\AKBSearch.exe
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\obj\x86\Debug\AKBSearch.pdb
+C:\inetpub\wwwroot\AKBSearch\AKBSearch\obj\x86\Debug\AKBSearch.FrmSearch.resources
+C:\inetpub\wwwroot\AKBSearch\obj\x86\Debug\AKBSearch.exe
+C:\inetpub\wwwroot\AKBSearch\obj\x86\Debug\AKBSearch.pdb
